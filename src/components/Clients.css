@@ -1,0 +1,67 @@
+.client-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.header{
+    display: inline-block;
+  margin-right: 10%;
+    
+}
+
+.talentlist{
+    display:flex ;
+    flex-direction: row;
+    margin-left: 30%;
+}
+.ipics1{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.c1{
+   display: flex;
+   flex-direction: column;
+    border: 2px solid black;
+    
+}
+.title1{
+    display: inline-block;
+    
+
+}
+.c2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+     border: 2px solid black;
+ }
+ .c3{
+    display: flex;
+    flex-direction: column;
+     border: 2px solid black;
+ }
+ .c4{
+    display: flex;
+    flex-direction: column;
+     border: 2px solid black;
+ }
+ .c5{
+    display: flex;
+    flex-direction: column;
+     border: 2px solid black;
+ }
+ .c6{
+    display: flex;
+    flex-direction: column;
+     border: 2px solid black;
+ }

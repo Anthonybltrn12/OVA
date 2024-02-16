@@ -1,0 +1,21 @@
+.about-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+h1{
+    padding-right: 350px;
+}
+.about-p{
+    display: flex;
+    margin-left: 5%;
+}
+.piclinks{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   justify-content: space-evenly;
+   padding-top: 10%;
+}
+
+

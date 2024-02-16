@@ -1,0 +1,40 @@
+.brandpic{
+    align-items: center;
+}
+/* body{
+    background-color: #ebecef;
+} */
+.header{
+    display: flex;
+    flex-direction: row;
+}
+.clientwork{
+    display: flex;
+    border-right: 2px solid white;
+    flex-grow: 4;
+}
+.first-list{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.rightside1{
+    margin-top: 5%;
+}
+.second-list{
+    color: white;
+    display: flex;
+    justify-content: space-between
+    
+}
+.third-list{
+    color: white;
+    margin-top: 5%;
+}
+.brandheader{
+    display: flex;
+   margin-left: 30%;
+}
+
